@@ -1,0 +1,846 @@
+﻿							
+									
+		
+CERRADURAS TRABEX									
+001	Cerradura Trabex de seguridad Art. 1020	 $ 234,92
+002	Cerradura Trabex de seguridad Art. 1025	 $ 234,92
+003	Cerradura Trabex de seguridad Art. 2105	 $ 342,50
+004	Cerradura Trabex de seguridad Art. 2107	 $ 340,50
+005	Cerradura Trabex de seguridad Art. 3101	 $ 343,90
+006	Cerradura Trabex de seguridad Art. 6624	 $ 271,36
+007	Cerradura Trabex de seguridad Art. 6625	 $ 275,90
+008	Cerrojo Trabex de seguridad Art. 5101	 $ 232,50
+009	Cerrojo Trabex de seguridad Art. 5105	 $ 241,59
+010	Cerrojo Trabex Art. 624 (pasador rectangular)	 $ 222,90
+011	Cerrojo Trabex Art. 625 (pasador D/ Perno)	 $ 235,90
+012	Cerradura Tarbex p/ puerta corrediza Art. 700(nacional)	 $ 306,39
+013	Cerradura Trabex fina pasador rectangular Art. 610 (4 comb.)	 $ 269,89
+									
+	CERRADURAS ACYTRA	
+014	Cerradura acytra de seguridad 004 similar trabex 6624$ 222,20
+015	Cerradura acytra de seguridad 005 similar trabex 1020	 $ 185,76
+016	Cerradura acytra de seguridad 006 similar trabex 1025$ 182,32
+017	Cerradura acytra de seguridad 007 similar trabex 6625$ 215,18
+018	Cerradura Acytra  de seguridad Art. 174	 $ 263,52
+019	Cerradura Acytra de seguridad Art. 131$ 351,59
+020	Cerradura Acytra de seguridad  Art. 121	 $ 352,89
+021	Cerradura Acytra de seguridad Art. 101	 $ 318,46
+022	Cerrojo Acytra de seguridad  (pasador d/ perno) Art. 501	 $ 232,20
+023	Cerradura Acytra de seguridad Consorcio  Art. 110	 $ 324,50
+024	Cerradura Acytra de seguridad Corrediza  Art. 701	 $ 374,76
+025	Cerradura Acytra angosta de seguridad art 9101$ 210,60
+									
+	CERRADURAS BUNKER	
+026	Cerradura Bunker de seguridad Art. 225	 $ 132,90
+027	Cerradura Bunker de seguridad Art. 220	 $ 132,90
+028	Cerradura Bunker de seguridad Art. 4200	 $ 136,85
+029	Cerrojo Bunker de seguridad Art. 404	 $ 116,92
+030	Cerradura MA. puerta placa Art. 101	 $ 67,30
+031	Cerradura MA. puerta placa Art. 102	 $ 71,88
+032	Cerradura Bunker de seguridad Art.4205 d.perno$ 153,87
+033	Juego Combinado Bunker (1 Art. 4200 + 2 Art. 404)								
+034	Juego Combinado Bunker (1 Art. 404 + 1 Art. 404)	 $ 275,90
+									
+CERRADURAS CERRATEX		
+035	Cerradura cerratex art 2000	 $ 129,80
+036	Cerradura cerratex art 2004$ 138,43
+037	Cerrojo cerratex art 650$ 112,21
+038	Cerrojo cerraztx art 652 corredizo$ 144,50
+039	Cerradura angosta cerratex art 3000	 $ 146,59
+040	Cerradura doble perno tipo acytra art 4000	 $ 202,50
+									
+									
+CERRADURAS GIACO		
+041	Cerradura Giaco Pasador Rectangular Art. 1120	 $ 178,81
+042	Cerradura Giaco Pasador Rectangular Art. 1125	 $ 178,81
+043	Cerradura Giaco Pasador Rectangular Art. 1005	 $ 183,34
+044	Cerradura Giaco Pasador D/ Perno Art. 1105	 $ 201,96
+045	Cerrojo Giaco Pasador D/Perno Art. 1003	 $ 164,59
+									
+									
+CERRADURAS DAC		
+046	Cerradura DAC de seguridad (En bolsa) Art. 308	 $ 161,98
+047	Cerradura DAC de seguridad (En caja) Art. 308	 $ 163,52
+048	Cerradura DAC de seguridad doble perno Art. 307	 $ 174,85
+049	Cerradura DAC de seguridad doble perno Art. 306	 $ 172,59
+050	Cerrojo DAC de seguridad Art. 309	 $ 141,36
+051	Juego Combinado DAC (1 Art. 308 + 2 Art. 309)	 $ 490,89
+052	Juego Combinado DAC (1 Art. 307 + 2 Art. 309)	 $ 510,79
+053	Juego Combinado DAC (1 Art. 309 + 1 Art. 309)	 $ 319,89
+									
+									
+									
+CERRADURAS CANDEX		
+054	Cerradura Candex Art. 116	 $ 176,50
+055	Cerradura Candex Art. 115	 $ 176,50
+056	Cerradura Candex Art. 117	 $ 178,90
+057	Cerradura Candex Art. 111	 $ 240,40
+058	Cerradura Candex Art. 118	 $ 291,50
+059	Cerradura Candex Art. 128	 $ 179,60
+060	Cerradura Candex Angosta  Art. 121	 $ 175,90
+061	Cerradura Candex Art. 125 (Linea Económica)	 $ 139,90
+062	Cerradura Candex Art. 124 (Linea Económica)	 $ 139,90
+063	Cerradura candex Art. 126 (Linea Económica)	 $ 165,90
+									
+CERRADURAS PRIVE		
+064	Cerradura Prive corrediza interior Art. 120	 $ 87,90
+065	Cerradura Prive de seguridad (En caja) Art. 200	 $ 139,80
+066	Cerradura Prive de seguridad (En bolsa) Art. 200	 $ 136,85
+067	Cerradura Prive fina doble perno Art. 204	 $ 196,56
+068	Cerradura Prive doble perno Art. 205	 $ 166,42
+069	Cerradura Prive fina pasador rectangular Art. 206	 $ 171,60
+070	Cerradura Prive de seguridad Art. 207	 $ 132,90
+071	Cerradura Prive de seguridad Art. 208	 $ 132,90
+072	Cerradura Prive corrediza fina Art. 214	 $ 256,90
+073	Cerradura Prive de seguridad Art. 2001	 $ 218,40
+074	Cerradura Prive de seguridad Art..201	 $ 219,50
+075	Cerrojo Prive doble perno Art. 210	 $ 138,59
+076	Cerrojo Prive corredizo Art. 212	 $ 187,50
+077	Cerrojo Prive pasador rectangular Art. 209$ 137,59
+078	Cerrojo Prive pasador rectangular Art. 203	 $ 148,90
+079	Cerrojo Prive doble perno Giratorio Art. 2003	 $ 164,59
+080	Cerrojo Prive llave cruz Art. 400	 $ 252,90
+081	Cerradura Prive puerta placa Art. 101	 $ 58,24
+082	Cerradura Prive puerta placa Art. 102	 $ 62,40
+									
+CERRADURAS VAN DOS		
+083	Cerradura Van- Dos Art. 4011 de Seguridad pasador Rectangular 4 placas	 $ 165,08
+084	Cerradura Van- Dos Art. 4022 de Seguridad pasador Rectangular 4 placas	 $ 165,08
+085	Cerradura Van- Dos Art. 4033 de Seguridad pasador Rectangular 4 placas	 $ 171,11
+086	Cerradura Van- Dos Art. 4044 de Seguridad pasador D/ Perno  4 placas	 $ 177,02
+087	Cerradura Van- Dos Art. 538 Angosta pasador rectangular 4 placas	 $ 172,05
+088	Cerradura Van- Dos Art. 618 de Seguridad pasador d/ perno  6 placas	 $ 340,17
+089	Cerrojo Van- Dos Art. 808 de Seguridad pasador d/ perno 4 placas	 $ 124,37
+090	Cerrojo Van- Dos Art. 818 de Seguridad pasador d/ perno 6 placas de Bronce$ 262,61
+091	cerradura Van- Dos Art. 901  de embutir p/ placard d/ perno$ 155,02
+092	cerradura Van- Dos Art. 903 de Arrimar p/ placard d/ perno$ 186,47
+093	cerradura Van- Dos Art. 904 de embutir p/ puerta Corrediza$ 186,47
+094	cerradura Van- Dos Art. 948 Corrediza 6 placas	 $ 319,48
+095	Cerradura Van Dos Art. 705 Pasador d/ Perno Puerta Cristal$ 205,42
+096	cerradura Van Dos Art. 715 Puerta Ascensor	 $ 135,81
+097	Cerradura Van Dos Art. 945 d/ Perno Linea Batines Angostos$ 299,23
+									
+									
+EVER LOCK									
+098	Cerrojo a Cremallera cromado Art. 10/02	 $ 245,44
+099	Cerrojo de Embutir con 2/ Pasadores Art. 20/02	 $ 256,06
+100	Pasador Gatillo cromado Art. 50								
+101	Cerrojo Comp. Doble cilindro Llave Llave cromado Art. 90/2 C								
+102	Cerrojo A/ Panico a crem. Comput. L 45 cromado Art. 90/45								
+									
+									
+									
+									
+									
+CYR6 - BERCOL - CERRATEX		
+103	Cerradura Cerratex Mueble 20- z x 12 unidades$ 199,80
+104	Cerradura Cerratex Mueble 25- z x 12 unidades.$ 202,59
+105	Cerradura Eléctrica Bercol$ 132,55
+106	CERROJO PASADOR LLAVE LARGA  TIPO CRUZ CROMADO CYR6$ 219,89
+									
+BERTOLO PICCOLO		
+107	Cerradura piccolo bertolo en bolsa art 110 hierro natural	 $ 106,90
+108	Cerradura piccolo bertolo en bolsa art 110 zincada$ 108,95
+109	Cerradura piccolo bertolo en bolsa art 111 hierro natural $ 108,90
+110	Cerradura piccolo bertolo en bolsa art 111 zincada$ 111,59
+									
+CANDADOS TRI CIRCLE		
+111	Candados TRI CICLE 20 mm $ 17,80
+112	Candado TRI CICLE 25 mm	 $ 20,59
+113	Candado TRI CICLE 32mm	 $ 29,90
+114	Candado TRI CICLE 38 mm	 $ 30,98
+115	Candado TRI CICLE 50 mm	 $ 43,99
+116	Candado TRI CICLE 60 mm	 $ 59,60
+									
+CANDADO SNAUZER ARO LARGO		
+117	Candado Snauzer aro largo 32 mm$ 33,90
+118	Candado Snauzer aro largo 38 mm$ 35,90
+119	Candado Snauzer aro largo 50 mm$ 48,90
+									
+CANDADOS SNAUZER		
+120	Candado Snauzer 25 mm	 $ 22,59
+121	Candado Snauzer 32 mm	 $ 30,99
+122	Candado Snauzer 38 mm	 $ 33,10
+123	Candado Snauzer 50 mm	 $ 45,99
+124	Candado Snauzer 60  mm								
+									
+ACYTRA									
+125	Candado Acytra Doble paleta Art. 906 40 mm	 $ 125,28
+126	Candado Acytra Doble paleta Art. 901 55 mm	 $ 157,14
+127	Candado Acytra Doble paleta Art. 912 70 mm	 $ 220,59
+									
+VAN- DOS		
+128	Candado Van-dos 40 mm doble paleta$ 145,22
+129	Candado Van-dos  50 mm doble paleta$ 164,85
+130	Candado Van- Dos Art. 204  60 mm Aro LargoD/ Paleta$ 239,85
+									
+ROA		
+131	Candado roa 40 mm doble paleta$ 100,80
+132	Candado roa 50 mm doble paleta$ 128,80
+									
+PAMPA									
+133	Candado PAMPA 22 mm	 $ 61,02
+134	Candado PAMPA 30 mm	 $ 72,05
+135	Candado PAMPA 40 mm	 $ 98,51
+136	Candado PAMPA 50 mm	 $ 138,86
+137	Candado PAMPA 60 mm$ 183,38
+138	Candado PAMPA 22 X 44 mm Aro Largo	 $ 71,84
+139	Candado PAMPA 30 X 74 mm Aro Largo	 $ 80,52
+140	Candado PAMPA 40 X 66 mm Aro Largo	 $ 84,80
+141	Candado PAMPA 50 X 66 mm Aro Largo	 $ 111,69
+142	Candado PAMPA doble traba a bolilla 30 mm	 $ 91,05
+143	Candado PAMPA doble traba a bolilla 40 mm$ 117,47
+144	Candado PAMPA doble traba a bolilla 50 mm$ 158,55
+145	Candado PAMPA doble traba a bolilla 60 mm$ 201,15
+146	Candado PAMPA doble traba a bolilla 30 x 74 mm Aro Largo	 $ 98,22
+147	Candado PAMPA doble traba a bolilla 40 x 66 mm Aro Largo	 $ 129,48
+148	Candado PAMPA doble traba a bolilla 50 x 66 mm Aro Largo	 $ 179,14
+149	Candado PAMPA doble traba a bolilla 60 x 78 mm Aro Largo	 $ 226,69
+									
+CANDADO PRIVE		
+150	Candado PRIVE  doble traba a bolilla 25mm	 $ 78,91
+151	Candado PRIVE  doble traba a bolilla 30 mm $ 95,70
+152	Candado PRIVE doble traba a bolilla 40 mm $ 123,10
+153	Candado PRIVE doble traba a bolilla 50 mm	 $ 160,60
+154	Candado PRIVE doble traba a bolilla 60 mm $ 215,60
+155	Candado PRIVE Numerico 30 mm$ 99,42
+									
+TRABEX									
+156	Candado TRABEX doble paleta 40 mm (Nacional)	 $ 111,30
+157	Candado TRABEX doble paleta 50 mm(Nacional)	 $ 143,85
+158	Candado TRABEX doble paleta 40 mm (Importado)	 $ 99,75
+159	Candado TRABEX doble paleta 50 mm(Importado)	 $ 128,10
+160	Candado TRABEX bloqueo 20 mm$ 514,80
+161	Candado TRABEX bloqueo 30 mm$ 520,23
+162	Candado TRABEX numérico 30 mm$ 104,89
+									
+PICAPORTE DE ALUMINIO PULIDO , BLANCO Y NEGRO		
+163	Manija ministerio aluminio$ 21,89
+164	Manija ministerio color blanca$ 26,88
+165	Manija ministerio color negra$ 26,88
+									
+PICAPORTE MINISTERIO BRONCE Y PLATIL		
+166	Manija ministerio bronce pulido$ 42,52
+167	Manija ministerio bronce platil$ 43,57
+168	Media manija ministerio bronce$ 36,73
+169	Media manija ministerio platil$ 37,47
+									
+PICAPORTE BICELADO ALUMINIO PULIDO BLANCO Y NEGRO		
+170	Manija bicelada aluminio$ 27,09
+171	Manija bicelada color negra$ 32,90
+172	Manija bicelada color blanca$ 32,90
+									
+PICAPORTE BICELADO BRONCE		
+173	Manija biselada bronce $ 73,39
+174	Manija biselada platil$ 74,02
+175	Media manija biselada bronce$ 44,30
+176	Media manija biselada platil$ 44,30
+177	Media manija biselada de auminio blanco/negro	 $ 21,17
+178	Manija Puente de aluminio nº: 1 blanco/negro	 $ 10,50
+179	Manija Puente de aluminio nº: 2 blanco/negro	 $ 11,94
+180	Manijas biselada cruz bronce$ 74,10
+181	Manija biselada cruz platil$ 77,55
+182	Media manija biselada cruz bronce$ 44,30
+183	Media manija biselada cruz platil$ 44,30
+									
+									
+PICAPORTE POMO		
+184	Manija pomo doble balancín bronce$ 177,02
+185	Manija pomo Doble balancín platil$ 189,74
+186	Manija pomo giratorio bronce$ 101,76
+187	Manija pomo giratorio platil$ 108,08
+188	Manija pomo fijo bronce$ 103,88
+189	Manija pomo fijo platil$ 111,17
+190	Manija pomo doble balancín hueco bronce$ 157,94
+191	Manija pomo doble balancín hueco platil$ 165,68
+192	Manija pomo giratorio hueco bronce$ 94,50
+193	Manija pomo giratorio hueco platil	 $ 94,50
+194	Manija pomo fijo hueco bronce$ 94,50
+195	Manija pomo fijo hueco platil$ 94,50
+									
+MANIJONES:									
+196	Manijon medio punto bronce$ 75,46
+197	Manijon medio punto paltil$ 78,83
+198	Manijon liviano bronce$ 81,54
+199	Manijon liviano Platil$ 84,13
+200	Manijon liviano bronce (Corto/sin bocallave)	 $ 75,81
+201	Manijon liviano Platil  (Corto/sin bocallave)	 $ 47,27
+202	Manijon de chapa Negro/ Blanco	 $ 45,90
+									
+									
+TIRADORES DE MADERA									
+203	TIRADORES TIPO PAMPA MADERA NATURAL 25 MM$ 3,80
+204	TIRADORES TIPO PAMPA MADERA NATURAL 30 MM$ 4,15
+205	TIRADORES TIPO PAMPA MADERA NATURAL 40 MM$ 5,15
+206	TIRADORES 1/2 ESFERA MADERA NATURAL 25 MM$ 4,10
+207	TIRADORES 1/2 ESFERA MADERA NATURAL 35 MM$ 4,80
+208	TIRADORES ESTILO MADERA NATURAL 30 MM$ 4,45
+209	TIRADORES ESTILO MADERA NATURAL 35 MM$ 4,70
+210	TIRADORES DE MADERA AP DE 25 MM NATURAL$ 3,80
+211	TIRADORES DE MADERA AP DE 30 MM NATURAL$ 3,95
+									
+CADENA DE SEGURIDAD		
+212	Cadena de seguridad epoxi negra$ 23,21
+213	Cadena de seguridad dorada$ 23,21
+	RETENES	
+214	Reten magnetico$ 6,40
+215	Reten a rodillo zincado$ 4,68
+									
+BISAGRAS AMURAR Y SOLDAR		
+215	Bisagras para amurar y soldar chica$ 15,90
+216	Bisagras para amurar y soldar mediana$ 17,25
+217	Bisagras para amurar y soldar grande$ 23,50
+									
+BISAGRAS SOLDAR / SOLDAR		
+218	Bisagras soldar extra chica 25 x 25 espesor 4 perno 12$ 12,08
+219	Bisagras soldar chica 25 x 32 espesor 4 perno 12$ 12,66
+220	Bisagras soldar mediana 25 x 38 espesor 4 perno 12$ 16,38
+221	Bisagras soldar grande 25 x 50 espesor 4 perno 12$ 16,88
+									
+BISAGRAS CARROCERA PARA ATORNILLAR		
+222	Bisagras carrocera para atorillar 63 x 45 espesor 3 perno 9,5	 $ 16,11
+223	Bisagras carrocera para atornillar 75 x 60 espesor 4 perno 12$ 37,81
+									
+BISAGRAS CON BULON		
+224	Bisagras con bulon 130	 $ 17,49
+225	Bisagras con bulon 200$ 18,68
+226	Bisagras con bulon 250$ 21,45
+227	Bisagras con bulon 200 REFORZADA $ 37,27
+228	Bisagras con bulon 250  REFORZADA$ 42,84
+									
+BISAGRAS PARA AMURAR Y ATORNILLAR		
+229	Bisagras para amurar y atornillar 130$ 15,34
+230	Bisagras para amurar y atornillar 200	 $ 16,77
+231	Bisagras para amurar y atornillar 250$ 19,58
+232	Bisagras para amurar y atornillar 200 REFORZADA$ 27,77
+233	Bisagras para amurar y atornillar 250 REFORZADA$ 28,58
+234	Bisagras para amurar y atornillar 300$ 34,65
+									
+BISAGRAS CENTRAL DOBLE ALA FORJADA		
+235	Bisagras central doble ala 130 x 32 espesor 3 perno 9,5$ 18,23
+236	Bisagras central doble ala 170 x 38 espesor 4 perno 12$ 30,93
+									
+BISAGRAS PARA ATORNILLAR HIERRO FORJADO		
+237	Bisagras para atornillar hierro forjado x 100	 $ 15,95
+238	Bisagras para atornillar hierro forjado x 130	 $ 17,49
+239	Bisagras para atornillar hierro forjado x 200$ 19,78
+240	Bisagras para atornillar hierro forjado x 250$ 21,12
+241	Bisagras para atornillar hierro forjado x 200 REFORZADA$ 37,95
+242	Bisagras para atornillar hierro forjado x 250 REFORZADA$ 39,58
+									
+BISAGRAS MUNICION HERRERO PARA SOLDAR									
+243	Bisagras munición 75	 $ 9,98
+244	Bisagras munición 100	 $ 10,45
+245	Bisagras municion 75 Ala larga$ 12,25
+246	Bisagras Municion 100 Ala larga$ 13,15
+									
+BISAGRAS MUNICION CARPINTERO									
+247	Bisagras carpintero 75	 $ 13,09
+248	Bisagras carpintero 100	 $ 13,75
+249	Bisagras Fichas Comnbinadas(Carpintero + Herrero) 75	 $ 11,88
+250	Bisagras Fichas Comnbinadas(Carpintero + Herrero) 100	 $ 12,54
+									
+									
+BISAGRAS TIPO POMELA		
+251	Bisagras tipo pomela 140 mm$ 17,99
+252	Bisagras tipo pomela 170 mmsin stock
+									
+BISAGRAS DOBLE ACCION		
+253	Bisagras doble accion 76 mm charolado unidad$ 74,77
+									
+BISAGRAS FICHA CARPINTERO PARA ATORNILLAR		
+254	Bisagras fichas ala larga c/ 3 agujeros doradas (2x3x1,5)	 $ 7,33
+255	Bisagras fichas ala larga c/ 3 agujeros plateadas (2x3x1,5)	 $ 7,33
+256	Bisagras fichas ala larga c/ 5 agujeros doradas (2x5x1,5)	 $ 7,99
+257	Bisagras fichas ala larga c/ 5 agujeros plateadas (2x5x1,5)	 $ 7,99
+258	Bisagras fichas mueble 80x20$ 5,94
+									
+	BISAGRAS FICHA PARA HERRERO	
+259	Bisagras fichas p/ herrero ala corta 60$ 7,48
+260	Bisagras fichas p/ herrero ala corta 80	 $ 8,25
+261	Bisagras fichas p/ herrero ala corta 100	 $ 8,69
+262	Bisagras fichas p/ herrero  ala larga 60	 $ 8,16
+263	Bisagras fichas p/ herrero ala larga 80$ 8,75
+264	Bisagras fichas p/ herrero ala larga 100	 $ 9,24
+									
+									
+BISAGRAS PARA ALACENA		
+265	Bisagras para alacena chica base cruz$ 6,95
+266	Bisagras para alacena grande base cruz$ 7,90
+									
+BISAGRAS 1842		
+267	Bisagras 1842 38 mm hierro pul	 $ 5,10
+268	Bisagras 1842 51 mm hierro pul$ 5,35
+269	Bisagras 1842 63 mm hierro pul$ 8,10
+									
+BISAGRAS TIPO T HIERRO NATURAL									
+270	Bisagras tipo T 76 mm$ 5,49
+271	Bisagras tipo T 101 mm$ 6,18
+272	Bisagras tipo T 127 mm	 $ 8,17
+273	Bisagras tipo T 152 mm$ 9,43
+274	Bisagras tipo T 175 mm$ 10,49
+									
+BISAGRAS TIPO LIBRO 5005 HIERRO Y BRONCEADAS									
+275	Bisagras 5005 hierro pulido 25 mm 48 unidades$ 29,90
+276	Bisagras 5005 hierro pulido 38 mm 24 unidades $ 25,80
+277	Bisagras 5005 hierro pulido 51 mm 24 unidades$ 24,30
+278	Bisagras 5005 hierro pulido 63 mm 24 unidades$ 38,94
+279	Bisagras 5005 hierro pulido 76 mm 24 unidades$ 48,60
+280	Bisagras 5005 hierro pulido 88 mm 24 unidades$ 66,60
+281	Bisagras 5005 hierro pulido 101 mm 24 unidades$ 115,40
+282	Bisagras 5005 bronceadas 25 mm 48 unidades$ 48,57
+283	Bisagras 5005 bronceadas 38 mm 24 unidades$ 29,94
+284	Bisagras 5005 bronceadas 51 mm 24 unidades$ 55,30
+285	Bisagras 5005 bronceadas 63 mm 24 unidades$ 70,40
+286	Bisagras 5005 bronceadas 76 mm 24 unidades$ 81,20
+287	Bisagras 5005 bronceadas 88 mm 24 unidades$ 118,50
+288	Bisagras 5005 bronceadas 101 mm 24 unidades$ 179,20
+									
+	PASADOR PIE TECHO FORJADO	
+289	Pasador tipo cerrojo pie / techo 100	 $ 14,58
+290	Pasador tipo cerrojo pie / techo 130$ 16,10
+291	Pasador tipo cerrojo pie / techo 200	 $ 18,57
+292	Pasador pie / techo para atornillar 300	 $ 29,10
+									
+PASADOR PORTACANDADO HIERRO FORJADO		
+293	Pasador portacandado hierro forjado reforzado 150$ 30,14
+294	Pasador portacandado hierro forjado reforzado 200$ 32,78
+									
+PASADOR ANCHO CON PORTACANDADO									
+295	Pasador ancho con porta candado 39 x 70	 $ 9,97
+296	Pasador ancho con porta candado 39 x 80	 $ 10,48
+297	Pasador ancho con porta candado 39 x 90	 $ 11,25
+298	Pasador ancho con porta candado 39 x 100	 $ 11,34
+299	Pasador ancho con porta candado 39 x 110	 $ 12,49
+300	Pasador ancho con porta candado 39 x 120$ 13,12
+301	Pasador ancho con porta candado 18 x 55	 $ 7,33
+302	Pasador ancho con porta candado 18 x 35$ 7,16
+303	Pasador ancho con porta candado 28 x 80 ( mediano )$ 9,43
+									
+									
+									
+PASADOR CERROJO GRANDE		
+304	Pasador cerrojo grande cromatizado 100 mm$ 11,80
+305	Pasador cerrojo grande cromatizado 120 mm	 $ 12,90
+306	Pasador cerrojo grande cromatizado 140 mm$ 15,95
+307	Pasador cerrojo grande cromatizado 170 mm$ 18,44
+308	Pasador cerrojo grande cromatizado 210 mm$ 25,95
+									
+									
+PASADOR CON PORTACANDADO ZINCADO									
+309	Pasador porta candado cromatizado 100 mm$ 15,90
+310	Pasador porta candado cromatizado 120 mm$ 16,95
+311	Pasador porta candado cromatizado 140 mm$ 21,10
+312	Pasador porta candado cromatizado 170 mm$ 24,56
+313	Pasador porta candado cromatizado 210 mm$ 31,20
+									
+PASADOR CON TRABA									
+314	Pasador con traba cromatizado 35 mm$ 12,50
+315	Pasador con traba cromatizado 47 mm	 $ 13,90
+316	Pasador con traba cromatizado 57 mm$ 15,85
+317	Pasador con traba zinc dorado 35 mm$ 12,50
+318	Pasador con traba zinc dorado 47 mm$ 13,99
+319	Pasador con traba zinc dorado 57 mm$ 15,85
+									
+PASADOR CON CERROJO									
+320	Pasador cerrojo cromatizado 35 mm$ 5,18
+321	Pasador cerrojo cromatizado 40 mm$ 6,15
+322	Pasador cerrojo cromatizado 47 mm	 $ 6,90
+323	Pasador cerrojo cromatizado 57 mm$ 7,70
+324	Pasador cerrojo charolado 35 mm$ 5,18
+325	Pasador cerrojo charolado 40 mm$ 6,15
+326	Pasador cerrojo charolado 47 mm$ 6,90
+327	Pasador cerrojo charolado 57 mm$ 7,70
+									
+PASADOR MAUSER		
+328	Pasador mauser cromatizado numero 1 x 100 mm$ 20,90
+329	Pasador mauser cromatizado numero 2 x 130 mm$ 23,59
+									
+PASADOR PISTOLETE									
+330	Pasador pistolete para piso cromatizado 150 mm$ 16,68
+331	Pasador pistolete para piso cromatizado 200 mm$ 17,80
+332	Pasador pistolete para piso cromatizado 250 mm$ 22,99
+333	Pasador pistolete para piso cromatizado 330 mm$ 28,59
+									
+COLGADORES DE CUADRO									
+334	Colgadores de cuadro bronceados 20 mm x 200 unidades$ 89,90
+335	Colgadores de cuadro bronceados 25 mm x 200 unidades$ 91,50
+336	Colgadores de cuadro bronceados 30 mm x 200 unidades$ 107,90
+337	Colgadores de cuadro bronceados 35 mm x 200 unidades$ 120,59
+338	colgadores de cuadro bronceados 45 mm x 200 unidades$ 151,50
+									
+MENSULAS DE CHAPA MARCA PARTS ( IND ARG )									
+339	Mensulas de chapa   80 x 100 marca parts ind arg$ 7,70
+340	Mensulas de chapa 100 x 125 marca  parts ind arg$ 8,80
+341	Mensulas de chapa 125 x 150 marca parts ind arg	 $ 14,59
+342	Mensulas de chapa 150 x 200 marca parts ind arg	 $ 17,50
+343	Mensulas de chapa 200 x 250 marca parts ind arg	 $ 18,90
+344	Mensulas de chapa 250 x 300 marca parts ind arg$ 22,80
+									
+	MENSULAS BRACKET								
+345	Mensulas BRACKET 125 x 150 marca parts ind arg	 $ 14,80
+346	Mensulas BRACKET 150 x 200 marca parts ind arg	 $ 15,59
+347	Mensulas BRACKET 200 x 250 marca parts ind arg	 $ 18,10
+348	Mensulas BRACKET  250 x 300 marca parts ind arg$ 23,25
+									
+	MENSULAS PARA ESTANTES LATERALES								
+349	MENSULAS PARA ESTANTES LATERALES  260 X 57 ind arg	 $ 22,80
+350	MENSULAS PARA ESTANTES LATERALES  350 X 80 ind arg	 $ 28,59
+									
+	MENSULAS PARA ESTANTES ESTILO COLONIAL	
+351	MENSULAS PARA ESTANTES ESTILO COLONIAL 200 MM ind arg	 $ 20,50
+352	MENSULAS PARA ESTANTES ESTILO COLONIAL 250 MM ind arg	 $ 22,59
+353	MENSULAS PARA ESTANTES ESTILO COLONIAL 300 MM ind arg	 $ 23,80
+									
+									
+									
+									
+SOPORTE CAÑO OVAL		
+354	Soporte para caño oval laterales 5 \8$ 5,49
+355	Soporte para caño oval central 5\ 8$ 8,60
+SOPORTE ALACENA									
+356	Soporte para alacena sin alas cromatizada$ 4,90
+357	Soporte para alacena con alas cromatizada$ 4,94
+									
+									
+SOPORTE REPISA									
+358	Soporte para repisa cromatizada 19 \ 45 x 100 unidades$ 90,59
+359	Soporte para repisa cromatizada 19 \ 75 x 100 unidades$ 130,59
+SOPORTE VITRINA									
+360	Soporte de vitrina zamac baño oro 6 mm para estantes de vidrio$ 10,50
+361	Soporte de vitrina zamac baño oro 10  mm para estantes de vidrio$ 24,80
+362	Soporte de vitrina zamac baño cromo 6 mm para estantes de vidrio	 $ 10,10
+363	Soporte de vitrina zamac baño cromo 10 mm para estante de vidrio$ 22,15
+									
+PLANCHUELAS									
+364	Planchuelas cromatizada 16 x 50 mm$ 0,95
+365	Planchuelas cromatizada 16 x 75 mm$ 1,32
+366	Planchuelas cromatizada 16 x 100 mm$ 1,74
+367	Planchuelas cromatizada 16 x 125 mm$ 2,10
+368	Planchuelas cromatizada 16 x 150 mm$ 2,65
+369	Planchuelas cromatizada 16 x 175 mm$ 4,05
+									
+ESCUADRA PLANA		
+370	Escuadra plana cromatizada 25 x 25 mm x 24 unidades$ 20,59
+371	Escuadra plana cromatizada 40 x 40  mm x 24 unidades$ 34,89
+372	Escuadra plana cromatizada 60 x 60  mm x 24 unidades$ 43,50
+373	Escuadra plana cromatizada 70 x 70 mm x 24 unidades$ 62,80
+374	Escuadra plana cromatizada 90 x 90  mm x 24 unidades$ 69,98
+									
+	ESQUINERO ANGULO REFORZADO								
+375	Esquineros con angulo reforzado cromatizado 25 x 25 24 unidades$ 24,99
+376	Esquineros con angulo reforzado cromatizado 38 x 38  24 unidades$ 31,85
+377	Esquineros con angulo reforzado cromatizado 51 x 51 24 unidades$ 46,50
+378	Esquineros con angulo reforzado cromatizado 65 x 65 24 unidades$ 55,59
+379	Esquineros con angulo reforzado cromatizado 78 x 78  24 unidades$ 73,60
+380	Esquineros con angulo reforzado cromatizado 90 x 90  12 unidades$ 55,85
+381	Esquineros con angulo reforzado cromatizado 100 x 100 12 unidades$ 70,50
+382	Esquineros con angulo reforzado cromatizado 122 x 122 12 unidades$ 74,99
+383	Esquineros con angulo reforzado cromatizadfo 150 x 150 12 unidade	 $ 88,25
+384	Esquineros ancho cromatizado 48 x 26 x unidad	 $ 3,01
+									
+ESQUINERO PARA CUADRO									
+385	Esquinero para cuadro de aluminio 25 x 25 x 13	 $ 1,88
+386	Esquinero para cuadro de aluminio 28 x 28 x 15	 $ 1,99
+387	Esquinero para cuadro acero 25 x 25 x 13	 $ 1,99
+388	Esquinero para cuadro acero 28 x 28 x15$ 2,45
+									
+RUEDAS									
+389	Rueda de 25 con base y municion "np"	 $ 7,80
+390	Rueda de 30 con base y municion "np"	 $ 8,78
+391	Rueda de 40 con base y municion "np"	 $ 11,59
+392	Rueda de 50 con base y municion "np"	 $ 17,28
+393	Rueda doble con base h°zinc .40$ 8,40
+394	Rueda doble con base h°zinc .50$ 9,80
+395	Rueda doble con rosca 1/4 40 mm	 $ 8,40
+396	Rueda doble con rosca 1/4 50mm	 $ 9,80
+397	Rueda doble con rosca 5/16 40 mm$ 8,40
+398	Rueda doble con rosca 5/16 50 mm$ 9,80
+399	Rueda de nylon de 25 mm con ruleman plana$ 5,27
+400	Rueda de nylon de 25 mm con ruleman y canaleta$ 5,27
+401	Rueda de nylon de 27 mm con ruleman y canaleta$ 6,73
+402	Rueda de nylon de 32 mm con ruleman plana	 $ 10,13
+403	Rueda de nylon de 32 mm con ruleman y canaleta$ 10,13
+404	Rueda de nylon de 38 mm con ruleman plana	 $ 16,94
+405	Rueda de nylon de 38 mm con ruleman y canaleta$ 16,94
+406	Rueda de nylon de 45 mm con ruleman plana	 $ 24,80
+407	Rueda de nylon de 45 mm con ruleman y canaleta }	 $ 24,80
+PATAS PLASTICA		
+408	PATAS PLASTICA REFORZADA 10 CM	 $ 15,54
+409	PATAS PLASTICA REFORZADA 15 CM$ 17,10
+									
+									
+									
+									
+									
+									
+									
+									
+ARANDELAS PLANAS									
+410	Arandelas zincadas 5 / 32 x kilo$ 65,94
+411	Arandelas zincadas 3 /16 x kilo$ 52,36
+412	Arandelas zincadas 1 /4 x kilo$ 46,10
+413	Arandelas zincadas 5 / 16 x kilo$ 43,25
+414	Arandelas zincadas 3 /8 x kilo$ 43,25
+415	Arandelas zincadas 1/2 x kilo$ 39,50
+416	Arandelas zincadas 5 / 8 x kilo$ 39,50
+417	Arandelas zincada 3/4 x kilo$ 39,50
+418	Arandelas zincada 7 / 8 x kilo$ 39,50
+419	Arandelas zincada 1 " x kilo$ 39,50
+									
+									
+									
+TUERCAS									
+420	Tuercas 5/32 250 unidades$ 62,90
+421	Tuercas 3 /16 250 unidades$ 62,75
+422	Tuercas 1/4 250 unidades	 $ 76,30
+423	Tuercas 5 / 16 250 unidades$ 119,98
+424	Tuercas 3/8 250 unidades$ 172,55
+425	Tuercas 7 /16 100 unidades	
+426	Tuercas 1/2 100 unidades$ 165,90
+PITONES									
+427	Piton ( abierto- cerrado y escuadra ) con tope n 5 x 50 unidades$ 30,47
+428	Piton ( abierto- cerrado y escuadra ) con tope n 6 x 50 unidades$ 35,20
+429	Piton ( abierto- cerrado y escuadra ) con tope n 8 x 50 unidades$ 56,47
+430	Piton ( abierto- cerrado y escuadra ) con tope n 10  x 25 unidades$ 49,37
+431	Piton ( abierto- cerrado y escuadra ) sin tope n 5 x 100 unidades$ 35,67
+432	Piton ( abierto- cerrado y escuadra ) sin tope n 6 x 100 unidades$ 44,48
+433	Piton ( abierto- cerrado y escuadra ) sin tope n 8 x 100 unidades$ 86,80
+434	Piton ( abierto- cerrado y escuadra ) sin tope n 10  x 50 unidades$ 67,20
+435	Piton bronceados 17 /40 con tope ( abierto y escuadra ) 100 unidades	 $ 96,80
+436	Piton bronceados 19/50 con tope ( abierto y escuadra ) 100 ubidades	 $ 118,70
+									
+GANCHOS "J"									
+436	Ganchos jota 1/4 x 50 mm con accesorios x 100 unidades$ 1,35
+437	Ganchos jota 1/4 x 60 mm con accesorios x 100 unidades$ 1,42
+438	Ganchos jota 1/4 x 70 mm con accesorios x 100 unidades$ 1,47
+439	Ganchos jota 1/4 x 80 mm con accesorios x 100 unidades$ 1,71
+440	Ganchos jota 1/4 x 100 mm con accesorios x 100 unidades$ 1,92
+441	Ganchos jota 1/4 x 120 mm con accesorios x 100 unidades$ 2,78
+									
+TIRAFONDOS									
+442	Tirafondos zincados 3 1/6 x 1 1/4x 100 unidades$ 55,87
+443	Tirafondos zincados 3 1/6 x 1 1/2x 100 unidades$ 62,13
+444	Tirafondos zincados 3 1/6 x 2 x  100 unidades$ 70,85
+445	Tirafondos zincados 3 1/6 x 2 1/4 x 100 unidades$ 79,35
+446	Tirafondos zincados 3 1/6 x 2 1/2x 100 unidades$ 87,16
+447	Tirafondos zincados 3 1/6 x 3 x 100 unidades$ 97,88
+448	Tirafondos zincados 1/4 x 1 1/4 x 100 unidades$ 68,39
+449	Tirafondos zincados 1/4 x 1 1/2 x 100 unidades$ 75,76
+450	Tirafondos zincados 1/4 x 2 x 100 unidades$ 96,35
+451	Tirafondos zincados 1/4 x 2 1/4 x 100 unidades$ 107,21
+452	Tirafondos zincados 1/4 x 2 1/2 x 100 unidades$ 120,24
+453	Tirafondos zincados 1/4 x 2 3 /4 X 100 100 unidades$ 125,85
+454	Tirafondos zincados 1/4 x 3 x 100 unidades$ 139,02
+455	Tirafondos zincados 1/4 x 3 1/2 x 100 unidades$ 159,60
+456	Tirafondos zincados 1/4 x 4 x 100 unidades$ 178,99
+457	Tirafondos zincados 1/4 x 4 1 / 2 x 100 unidades$ 193,97
+458	Tirafondos zincados 1 / 4 x 5 x 100 unidades$ 219,47
+459	Tirafondos zincados 5 1/6 1 1/4 x 100 unidades$ 104,37
+460	Tirafondos zincados 5 1/6 1 1/2 x 100 unidades$ 119,12
+461	Tirafondos zincados 5 1/6 1 3/4 x 100 unidades$ 125,90
+462	Tirafondos zincados 5 1/6 x 2 x 100 unidades$ 135,53
+463	Tirafondos zincados 5 1 /6 2 1/2 x 100 unidades$ 161,36
+									
+GRAMPAS PARA VIDRIO									
+464	Grampa de acero fija chica para vidrio del 4 mm	 $ 1,45
+465	Grampa de acero fija chica para vidrio del 6 mm	 $ 1,45
+466	Grampa de acero fija grande para vidrio del 4 mm$ 1,52
+467	Grampa de acero fija grande para vidrio del 6 mm$ 1,52
+468	Grampa de acero corrediza chica para vidrio del 4 mm$ 1,45
+469	Grampa de acero corrediza chica para vidrio del 6 mm$ 1,45
+470	Grampa de acero corrediza grande para vidrio del 4 mm$ 1,52
+471	Grampa de acero corrediza grande para vidrio del 6 mm$ 1,52
+472	Grampa de acero para espejo chica	 $ 0,90
+473	Grampa de acero para espejo mediana$ 1,00
+474	Grampa de acero para espejo grande 2 agujeros	 $ 1,43
+475	Grampa z chica	 $ 1,30
+476	Grampa z mediana	 $ 1,52
+477	Grampa z grande$ 1,52
+478	Grampa a presion chica	 $ 1,52
+479	Grampa a presion grande$ 1,59
+480	Grampa u para doble vidrio con tornillo	 $ 2,25
+481	Grampa doble vidrio$ 1,52
+									
+									
+									
+									
+CAJAS PORTA VALORES NACIONAL		
+482	Caja porta valores Nº: 0 Nacional$ 164,85
+483	Caja porta valores Nº: 1 Nacional	 $ 223,12
+484	Caja porta valores Nº: 2 Nacional$ 250,61
+485	Caja porta valores Nº: 3 Nacional	 $ 290,30
+									
+CAJAS DE HERRERO PARA CERRADURAS		
+486	Caja porta cerradura 1 Pulgada (Mod. Prive 200)	 $ 18,99 
+487	Caja porta cerradura 1 Pulgada (Mod. Trabex Art. 3101/ 2107)	 $ 18,99
+488	Caja porta cerrojo 1 Pulgada (Mod. Universal)$ 18,59
+489	Caja porta cerradura fina 1 pulgada (Mod. Prive 206)	 $ 18,99
+490	Caja porta cerradura fina corrediza 1 pulgada (Mod. Trabex 700)	 $ 18,99
+491	Caja porta cerradura 1 1/4 pulgada (Mod. Prive 200)	 $ 19,50
+492	Caja porta cerradura 1 1/4pulgada (Mod. Trabex 3101/2107)	 $ 19,50
+493	Caja porta cerrojo 1 1/4 pulgada (Mod. Universal)	 $ 19,50
+									
+DUPLIMEC									
+494	Maquina duplicadora de llaves doble paleta  	
+495	Maquina duplicadora de llaves yale	
+496	Maquina duplicadora de llaves doble paleta C/ Motor								
+									
+Llaves									
+497	Llave doble paleta$ 4,29
+498	Llave consorcio$ 6,49
+499	Llave doble paleta larga	 $ 5,63
+500	Llave yale$ 6,34
+501	Llave una paleta (mueble, puerta placa)	 $ 4,29
+502	Llave volcable$ 16,74
+503	Llave Cruz$ 20,28
+504	Llave de automotor metalizada$ 9,26
+505	Llave de automotor tapizada	 $ 13,90
+506	Llave de moto$ 12,50
+507	Llave Importada (para cerradura mueble) Cod. LD 12/ LD 14	 $ 6,15
+508	Llave Importada (para cerradura mueble) Cod.  LR 23/ LR 25	 $ 6,15
+509	Llave doble paleta Polímero$ 2,99
+510	Llave doble paleta Polímero consorcio$ 3,25
+									
+BOCALLAVES Y ROSETAS PARA PUERTAS		
+511	Bocallaves/ Rosetas redondas de bronce	 $ 11,34
+512	Bocallaves/ Rosetas redondas platil $ 11,34
+513	Bocallaves/ Rosetas cuadradas de bronce$ 11,34
+514	Bocallaves/ Rosetas  cuadradas de platil$ 11,34
+515	Bocallaves/ Rosetas  de chapa bronceadas/ plateadas$ 3,45
+516	Bocallaves/ Rosetas  de chapa color blanco/negro	 $ 3,35
+									
+CLAVIJAS PARA PICAPORTES									
+517	Clavijas para manijas plateadas  x 100 unidades	 $ 53,90
+518	Clavijas para manijas bronceadas x 100 unidades	 $ 53,90
+									
+FRESAS PARA MAQUINAS COPIADORAS									
+519	Fresa yale en acero rápido$ 598,75
+520	Fresa para maquina duplimec doble paleta$ 259,89
+									
+LLAVEROS		
+521	Llaveros publicitarios x 500 unidades	
+522	Llaveros tarjeteros de colores x 200 unidades$ 165,90
+523	Aros x 500 unidades$ 82,99
+									
+GRAFITO EN POLVO		
+524	Grafito 65 g. (lubricante en polvo)	 $ 17,50
+525	Grafito 90 g (lubricante en polvo)	 $ 25,97
+									
+	PINCELES LUQUE	
+526	Pincel luque virola 1 numero 7	 $ 14,98
+527	Pincel luque virola 1 numero 10	 $ 16,51
+528	Pincel luque virola 1 numero 15	 $ 23,39
+529	Pincel luque virola 1 numero 20	 $ 27,94
+530	Pincel luque virola 1 numero 25	 $ 41,91
+531	Pincel luque virola 1 numero 30	 $ 49,45
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+TARUGOS SIN TOPE		
+532	Tarugos sin tope 5 mm x 1000 unidades$ 48,20
+533	Tarugos sin tope 6 mm x 1000 unidades$ 54,99
+534	Tarugos sin tope 8 mm x 500 unidades$ 54,99
+535	Tarugos sin tope 10 mm 250 unidades$ 54,99
+536	Tarugos sin tope 12 mm 250 unidades$ 121,50
+									
+TARUGOS CON TOPE		
+537	Tarugos con tope 5 mm x 1000 unidades	 $ 54,80
+538	Tarugos con tope 6 mm x 1000 unidades$ 62,50
+539	Tarugos con tope 8 mm x 500 unidades$ 62,50
+540	Tarugos con tope 10 mm x 250 unidades$ 62,50
+541	Tarugos con tope 12 mm x 250 unidades	
+									
+TARUGO UNIVERSAL		
+542	Tarugos universal para ladrillo hueco 6 mm x 1000 unidades	 $ 167,47
+543	Tarugos universal para ladrillo hueco 8 mm x 500 unidades$ 149,35
+544	Tarugos universal para ladrillo hueco 10 mm x 250 unidades$ 143,11
+									
+TARUGOS ESPIGAS									
+545	Tarugos espiga 6 mm x 1000 unidades	 $ 244,75
+546	Tarugos espiga 8 mm x 500 unidades	 $ 199,97
+547	Tarugos espiga 10 mm x 250 unidades$ 176,40
+548	Tarugos espiga 12 mm x 250 unidades								
+									
+TARUGOS YESO DURLOCK		
+549	Tarugos espiral para durlock 6 mm 250 unidades$ 163,25
+550	Tarugos espiral para durlock 8 mm x 250 unidades$ 238,50
+									
+BUZONES  ( NACIONALES)		
+550	BUZON PARA PUERTA SIN BOCA$ 171,51
+551	BUZON N 29/5 PARA REJA SOLO SIN PULSADOR$ 186,10
+552	BUZON N 29/5 PARA REJA CON PULSADOR$ 204,05
+553	BUZON N 14/E DE PIE SOLO SIN PULSADOR$ 286,50
+554	BUZON N 14/E DE PIE CON PULSADOR	 $ 303,16
+555	BUZON N 15/E DE PIE TIPO CASITA SOLO SIN PULSADOR$ 326,48
+556	BUZON N 15/E DE PIE TIPO CASITA CON PULSADOR$ 345,34
+557	BOCA PARA BUZON DE CHAPA ESMALTADA$ 76,50
+558	PULSADOR CLASICO DE BRONCE NIQUELADO$ 21,50
+									
+RUEDA PARA CHANGOS DE COMPRAS									
+559	RUEDA DE CHANGO 110 MM$ 13,10
+560	RUEDA DE CHANGO 135 MM	 $ 15,50
+561	RUEDA DE CHANGO 160 MM$ 15,50
+									
+SOPORTES DE TV /  DVD /  LCD  / LED / MICROONDAS									
+562	SOPORTE DE MICROONDAS CONVENCIONAL CON KIT DE INSTAL.	 $ 195,57
+563	SOPORTE DE TV CON DVD DE 14 " A 21 " CONVENCIONAL GIR/DIREC	 $ 193,75
+564	SOPORTE LCD LED Y PC STANDARD MAX 42 " MAS KIT DE INST .$ 226,20
+565	SOPORTE LCD LED Y PC SIMPLE MAX 42 "  BRAZO MOVIL	 $ 279,61
+566	SOPORTE LCD LED Y PC DOBLE MAX 42 " BRAZO MOVIL	 $ 310,27
+									
+SOPORTE PARA CAÑO CURVO		
+567	SOPORTE PARA CAÑO CURVO NATURAL	 $ 22,17
+568	SOPORTE PARA CAÑO CURVO BLANCO$ 27,30
+									
+PUNTERAS									
+569	Punteras para caño de cortina 1 \ 2$ 2,03
+570	Punteras para caño de cortina 5 \ 8$ 2,90
+									
+SOPORTE DE CORTINAS									
+571	Soporte de cortina chapa dorado 1 \2	 $ 4,25
+572	Soporte de cortina chapa dorado 5\8	 $ 4,47
+573	Soporte de cortina chapa dorado 3\4	 $ 4,99
+574	Soporte de cortina zamac reforzado 1\2	 $ 6,50
+575	Soporte de cortina zamac reforzado 5\8	 $ 6,50
+									
+	BARRAL PARA BAÑO								
+576	Caño extensible aluminio natural$ 47,11
+577	Caño extensible pintado blanco$ 58,25
+578	Caño extensible de lujo blanco hasta 2 metros$ 79,80
+									
+ROLDANAS DE CHAPA									
+579	Roldanas de chapa cromatizada 25 mm$ 5,17
+580	Roldanas de chapa cromatizada 32 mm$ 6,64
+581	Roldanas de chapa cromatizada 38 mm$ 7,43
+582	Roldanas de chapa cromatizada 50 mm$ 9,34
+									
+									
+MEMBRANA AUTODHESIVA		
+583	Membrana autoadhesiva x rollo de 10 metros 0,10 cm$ 78,73
+584	Membrana autoadhesiva x rollo de 10 metros 0,15 cm$ 118,21
+585	Membrana autoadhesiva x rollo de 10 metros 0,25cm$ 193,14
+									
+CEMENTO DE CONTACTO MARCA FORTEX		
+586	Adhesivo de contacto n ° 101 125 cc 1/8 fortex	 $ 20,37
+587	Adhesivo de contacto n ° 101 250 cc 1/4 fortex	 $ 28,90
+588	Adhesivo de contacto n ° 101 500 cc 1/2 fortex	 $ 49,25
+589	Adhesivo de contacto n ° 101  1 litro fortex	 $ 82,33
+									
+COLA SINTETICA MARCA FORTEX		
+590	COLA SINTETICA A20 X 125 GM EXTRA 1/8 FORTEX$ 14,30
+591	COLA SINTETICA A20 X 250 GM EXTRA 1/4 FORTEX$ 19,41
+595	COLA SINTETICA A20 X 1200 GM EXTRA CON PICO  FORTEX$ 19,90
+593	COLA SINTETICA A20 X 500 GM EXTRA 1/2 FORTEX$ 32,19
+594	COLA SINTETICA A20 X 800 GM EXTRA CON PICO   FORTEX$ 49,69
